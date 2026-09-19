@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "075ff555efb028f1d127f067",
+  "owner": "djhagxej",
+  "repo": "page-643eda5447c01042011e015a",
+  "title": "Electry",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "643eda5447c01042011e015a",
+      "a": "Electry",
+      "b": "机场榜单Top1",
+      "entity": "Electry",
+      "brand": "Electry",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c909db7b5a17078b8e68aaa595e5ecfbfc17559927cbf98d679a20c59ad87984",
+      "content": {
+        "primary_entity": "Electry",
+        "keyword1": "Electry",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 与路由器各有对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后导入订阅，就能在常用设备上使用 Electry。",
+          "AI_CLOSING_TITLE": "开始使用 Electry",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35、¥85，年付分别为 ¥150、¥350、¥850。旗舰版支持 5 台设备同时在线与 IPLC 专线游戏加速优化，团队版支持 20 台设备与专属高带宽节点。按设备数量、月流量需求和流媒体解锁要求选择套餐，再依客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度了解 Electry 的订阅选择。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月或 ¥150/年，每月 100GB 流量，适合 3 台设备以内的轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月或 ¥350/年，每月 300GB 流量，支持 5 台设备与 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月或 ¥850/年，每月 1000GB 流量，支持 20 台设备与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "三档套餐",
+          "AI_FEATURE_TITLE_2": "设备与专线",
+          "AI_FEATURE_TITLE_3": "团队扩展",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，按三步开始使用 Electry。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Electry 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖月付与年付方式，按设备数量、流量需求和流媒体解锁要求选择套餐，再通过常用客户端导入订阅。",
+          "AI_HERO_SUBTITLE": "选择适合设备的加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量区分",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数量，团队版面向多设备高流量场景，可按月付或年付选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备同时在线数量、流量额度与流媒体解锁范围是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端文档中导入订阅配置，完成后即可在已授权设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Electry 订阅选择",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版适合一到三台设备日常使用，旗舰版支持五台设备并带流媒体解锁，团队版支持二十台设备，适合多人共享或小型团队。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中添加订阅地址并选择节点即可完成配置，每个客户端的操作路径略有不同，按客户端文档步骤操作更顺畅。",
+          "AI_FAQ_ANSWER_3": "基础版和旗舰版均支持按月付费，年付方式更划算，基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年。",
+          "AI_FAQ_ANSWER_4": "基础版支持三台设备同时在线，旗舰版支持五台，团队版支持二十台，可根据实际设备数量选择对应版本。",
+          "AI_FAQ_ANSWER_5": "建议先确认常用设备的系统类型和数量，再对比三档套餐的流量与设备上限，选择满足使用强度且预算合适的版本。",
+          "AI_FAQ_QUESTION_1": "Electry 套餐适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅并开始使用？",
+          "AI_FAQ_QUESTION_3": "支持按月还是按年付费？",
+          "AI_FAQ_QUESTION_4": "同时登录设备数量有限制吗？",
+          "AI_FAQ_QUESTION_5": "怎样选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "Electry 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "014c9c5a82f3d34df7129f0224df54274379d89bdf0b9975de3af211b5d64206",
+    "sitemap.xml": "32f867156321210ba1b1e7e220bb40c8f37d3e7b6e1bb53a27d71ca4421a835c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2785190fb7d74bdf3a966a08856175a8bbdd88b2ed3528f512484e0c0874880a"
+}
